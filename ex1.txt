@@ -1,0 +1,55 @@
+Hello World
+total 9848
+drwxr-xr-x 1 fabricet 197121       0 mars   7 17:55 ./
+drwxr-xr-x 1 fabricet 197121       0 mars   1 14:01 ../
+drwxr-xr-x 1 fabricet 197121       0 mars   2 11:38 .android/
+-rw-r--r-- 1 fabricet 197121       9 mars   2 11:46 .bash_history
+drwxr-xr-x 1 fabricet 197121       0 mars   2 11:55 .docker/
+-rw-r--r-- 1 fabricet 197121     126 mars   2 11:47 .gitconfig
+drwxr-xr-x 1 fabricet 197121       0 mars   2 12:16 .idea-build/
+drwxr-xr-x 1 fabricet 197121       0 mars   2 11:36 .IdeaIC2017.3/
+drwxr-xr-x 1 fabricet 197121       0 mars   2 12:11 .ivy2/
+drwxr-xr-x 1 fabricet 197121       0 mars   2 14:01 .m2/
+drwxr-xr-x 1 fabricet 197121       0 mars   2 12:10 .sbt/
+drwxr-xr-x 1 fabricet 197121       0 févr. 27 10:22 .soapuios/
+drwxr-xr-x 1 fabricet 197121       0 févr. 26 10:32 .TIBCO/
+drwxr-xr-x 1 fabricet 197121       0 févr. 21 14:39 .TIBCOEnvInfo/
+drwxr-xr-x 1 fabricet 197121       0 mars   1 14:13 3D Objects/
+drwxr-xr-x 1 fabricet 197121       0 mars   1 14:01 AppData/
+lrwxrwxrwx 1 fabricet 197121      33 mars   1 14:01 Application Data -> /c/Users/fabricet/AppData/Roaming/
+drwxr-xr-x 1 fabricet 197121       0 mars   1 14:13 Contacts/
+lrwxrwxrwx 1 fabricet 197121      61 mars   1 14:01 Cookies -> /c/Users/fabricet/AppData/Local/Microsoft/Windows/INetCookies/
+-rw-r--r-- 1 fabricet 197121     254 mars   5 13:47 default-soapui-workspace.xml
+drwxr-xr-x 1 fabricet 197121       0 mars   3 14:16 Desktop/
+drwxr-xr-x 1 fabricet 197121       0 mars   6 13:22 Documents/
+drwxr-xr-x 1 fabricet 197121       0 mars   3 14:14 Downloads/
+drwxr-xr-x 1 fabricet 197121       0 mars   1 14:13 Favorites/
+drwxr-xr-x 1 fabricet 197121       0 mars   7 17:56 GitRepositories/
+drwxr-xr-x 1 fabricet 197121       0 mars   7 14:18 IdeaProjects/
+drwxr-xr-x 1 fabricet 197121       0 mars   7 09:04 IntelGraphicsProfiles/
+drwxr-xr-x 1 fabricet 197121       0 mars   3 14:47 Links/
+lrwxrwxrwx 1 fabricet 197121      31 mars   1 14:01 Local Settings -> /c/Users/fabricet/AppData/Local/
+lrwxrwxrwx 1 fabricet 197121      62 mars   1 14:01 Menu Démarrer -> /c/Users/fabricet/AppData/Roaming/Microsoft/Windows/Start Menu/
+lrwxrwxrwx 1 fabricet 197121      27 mars   1 14:01 Mes documents -> /c/Users/fabricet/Documents/
+drwxr-xr-x 1 fabricet 197121       0 mars   1 14:14 MicrosoftEdgeBackups/
+lrwxrwxrwx 1 fabricet 197121      61 mars   1 14:01 Modèles -> /c/Users/fabricet/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 fabricet 197121       0 mars   1 14:13 Music/
+-rw-r--r-- 1 fabricet 197121 4718592 mars   6 18:51 NTUSER.DAT
+-rw-r--r-- 1 fabricet 197121 1429504 mars   1 14:01 ntuser.dat.LOG1
+-rw-r--r-- 1 fabricet 197121  294912 mars   1 14:01 ntuser.dat.LOG2
+-rw-r--r-- 1 fabricet 197121   65536 mars   1 14:01 NTUSER.DAT{46aacfa4-1d50-11e8-951b-c85b76ef227a}.TM.blf
+-rw-r--r-- 1 fabricet 197121  524288 mars   1 14:01 NTUSER.DAT{46aacfa4-1d50-11e8-951b-c85b76ef227a}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 fabricet 197121  524288 mars   1 14:01 NTUSER.DAT{46aacfa4-1d50-11e8-951b-c85b76ef227a}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 fabricet 197121      20 mars   1 14:13 ntuser.ini
+drwxr-xr-x 1 fabricet 197121       0 mars   3 14:47 OneDrive/
+drwxr-xr-x 1 fabricet 197121       0 févr. 21 17:03 Oracle/
+drwxr-xr-x 1 fabricet 197121       0 mars   1 14:13 Pictures/
+lrwxrwxrwx 1 fabricet 197121      58 mars   1 14:01 Recent -> /c/Users/fabricet/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 fabricet 197121       0 avr.  23  2017 Roaming/
+drwxr-xr-x 1 fabricet 197121       0 mars   1 14:13 Saved Games/
+drwxr-xr-x 1 fabricet 197121       0 mars   1 14:13 Searches/
+lrwxrwxrwx 1 fabricet 197121      58 mars   1 14:01 SendTo -> /c/Users/fabricet/AppData/Roaming/Microsoft/Windows/SendTo/
+-rw-r--r-- 1 fabricet 197121    2466 mars   5 13:47 soapui-settings.xml
+drwxr-xr-x 1 fabricet 197121       0 mars   1 14:13 Videos/
+lrwxrwxrwx 1 fabricet 197121      69 mars   1 14:01 Voisinage d'impression -> /c/Users/fabricet/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+lrwxrwxrwx 1 fabricet 197121      69 mars   1 14:01 Voisinage réseau -> /c/Users/fabricet/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
